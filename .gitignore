@@ -1,0 +1,7 @@
+.DS_Store
+
+# Saved Google page artifacts; the site uses the real MP4 directly.
+assets/video1.html
+assets/video2.html
+assets/video1_files/
+assets/video2_files/
